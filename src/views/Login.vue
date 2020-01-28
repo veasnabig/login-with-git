@@ -25,10 +25,10 @@ export default {
           name: "Github",
           img: require("../assets/github.svg")
         },
-        // {
-        //   name: "Github",
-        //   img: require("../assets/github.svg")
-        // },
+        {
+          name: "Github",
+          img: require("../assets/github.svg")
+        },
         // {
         //   name: "Github",
         //   img: require("../assets/github.svg")
